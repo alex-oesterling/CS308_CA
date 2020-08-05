@@ -1,3 +1,5 @@
+### *This was my second project for CS308: Advanced Software Design and Implementation. For this project, we built a Cellular Automata simulation. This was our first group project, and our first project implementing some of the advanced design concepts we learned in class such as inheritance and reflection. I worked on the visualizer, handling the rendering of the simulation, and its adaptation to hexagonal and triangular grids as well as rectangular ones.*
+
 simulation
 ====
 
